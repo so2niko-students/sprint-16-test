@@ -90,6 +90,11 @@ const operatorsBoth = [
     expectCheck : '-',
     operators : [2, 3, 1, 5, 6, 7, 8, 9, 'fe', 'text', '1rt', 'r3', 'aslkfvise eivas e'],
     phone : [1234567, 1334654, '6udemy53487yyy7', 'su23per 34 te23st__0'],
+  },
+  {
+    expectCheck : '-',
+    operators : [12, 13, 14, 15, 65, 77, 57, 90, '6udemy5', 'super 34 test'],
+    phone : [124567, 334654, 'udemy53487yyy7', 'su3per 34 te23st__0'],
   }
 ];
 
